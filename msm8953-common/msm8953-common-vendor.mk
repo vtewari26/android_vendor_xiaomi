@@ -604,6 +604,7 @@ PRODUCT_PACKAGES += \
     CNEService \
     WfdService \
     ims \
+    imssettings \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
